@@ -1,0 +1,13 @@
+ @charset "utf-8";
+
+* { font-family: Verdana; }
+html { overflow-y: scroll; background: url(../img/bg.gif);}
+
+#container { width: 871px; margin: 0 auto; padding-top: 32px; }
+
+#container p{ padding-left: 370px; }
+
+#banner { width: 871px; height: 162px; overflow: hidden; padding-bottom: 107px; }
+
+#footerContent { width: 900px; margin: 0 auto; padding-top: 200px; }
+#footerContent address { font-size: 0.85em; text-align: center; clear: both; padding-top: 23px; }
